@@ -1,0 +1,11 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    background: rgba(150,100,90);
+}
+.nav-list{
+    padding: 1%;
+    display: inline-block;
+}
